@@ -23,7 +23,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zDanshi&theme=2077)
 
 
-[<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/raph.a77/)
+
 <a href = "mailto:raphaelphillips18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h1><img src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" width="40px" height="40px"> Skills:</h1>
