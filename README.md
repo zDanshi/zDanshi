@@ -33,13 +33,13 @@
  <tr>
     <td align="center" width="60">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>Python
     </td>
     <td align="center" width="60">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>Java
       <td align="center"  width="60">
@@ -49,21 +49,21 @@
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="HTML" />
       <br>Spring
           <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="HTML" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="HTML" />
+      <br>TypeScript
             <td align="center" width="60">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>Docker
               <td align="center" width="60">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>Aws
                 <td align="center" width="60">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>MySql
         <td align="center"  width="60">
