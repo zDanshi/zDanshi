@@ -43,13 +43,13 @@
       </a>
       <br>Java
       <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
       <br>Angular
            <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
       <br>Spring
           <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
       <br>TypeScript
             <td align="center" width="60">
       <a href="#macropower-tech">
@@ -66,13 +66,17 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>MySql
-        <td align="center"  width="60">
+       
+<td align="center"  width="60">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="javascript" />
+      <br>Java Script 
+              <td align="center"  width="60">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
        <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
         <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
 
