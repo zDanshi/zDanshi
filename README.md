@@ -66,11 +66,6 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>MySql
-       
-<td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="javascript" />
-      <br>Java Script 
-              <td align="center"  width="60">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
        <td align="center"  width="60">
