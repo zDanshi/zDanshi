@@ -43,8 +43,8 @@
       </a>
       <br>Java
       <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
-      <br>Angular
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="angular" />
+      <br>Vue
            <td align="center"  width="60">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
       <br>Spring
