@@ -43,14 +43,14 @@
       </a>
       <br>Java
       <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="angular" />
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
       <br>Vue
            <td align="center"  width="60">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
       <br>Spring
           <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>TypeScript
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="typescript" />
+      <br>ReactJS
              <td align="center" width="60">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
