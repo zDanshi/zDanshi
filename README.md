@@ -67,15 +67,15 @@
       </a>
       <br>Aws
               <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="spring" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       <br>JavaScript
                 <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="spring" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
       <br>Html
         <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="spring" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
         <td align="center"  width="60">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="spring" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
       <br>git
       
