@@ -4,7 +4,7 @@
 
 ### Welcome to my GitHub! 💎
 
-#### Hello, my name is Raphael, I'm a student of computer Science in Federal University of Alagoas
+#### Hello, my name is Raphael, I'm a student Information Systems in Federal Institute of Alagoas
 
 <p align = "left">
 <img src="https://komarev.com/ghpvc/?username=zDanshi&color=blue" alt="zDanshi"> •
