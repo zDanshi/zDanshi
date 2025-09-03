@@ -11,7 +11,7 @@
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/zDanshi?label=Followers&style=social"> •
 </p>
 
-![](cyberpunk.gif)
+![](8f3d23884b9daf040020d979dcc75489.jpg)
 
 
 ## Status 📚
